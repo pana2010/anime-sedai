@@ -22,7 +22,7 @@ const data: Data = {
     { titleZh: "银魂", titleEn: "Gintama", titleJa: "銀魂", score: 8.7 },
     {
       titleZh: "寒蝉鸣泣之时",
-      titleEn: "Higurashi When They Cry",
+      titleEn: "Ergo Proxy",
       titleJa: "ひぐらしのなく頃に",
       score: 8,
     },
